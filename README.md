@@ -1,5 +1,4 @@
 # flume-source-plugin
-first version
 
 flume ng reliable tailSource
 
